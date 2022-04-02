@@ -3,7 +3,7 @@
 
 int main()
 {
-    int count = 10, x;
+    int count = 10, x, y;
     int *int_pointer;
     int_pointer = &count;
     x = *int_pointer;

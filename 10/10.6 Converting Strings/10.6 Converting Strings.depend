@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644432473 source:c:\users\sidco\desktop\c workspaces\10\10.6 converting strings\main.c
+	<stdio.h>
+	<string.h>
+

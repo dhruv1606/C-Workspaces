@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="../../Material/C Programming/Codes/9.2 Defining Functions/9.2 Defining Functions.cbp" />
+		<Project filename="../../Material/C Programming/Codes/9.5 Local and Global Variables/9.5 Local and Global Variables.cbp" />
+		<Project filename="../../Material/C Programming/Codes/9.3 Arguments and Parameters/9.3 Arguments and Parameters.cbp" />
+		<Project filename="../../Material/C Programming/Codes/9.4 Returning data from functions/9.4 Returning data from functions.cbp" />
+		<Project filename="../../Material/C Programming/Codes/9.6 Challange Write some Functions!/9.6 Challange Write some Functions!.cbp" />
+		<Project filename="../../Material/C Programming/Codes/9.8 Create a Tic Tac Toe Game/9.8 Create a Tic Tac Toe Game.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

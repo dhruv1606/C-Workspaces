@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="../../Material/C Programming/Codes/7.2 if Statements/7.2 if Statements.cbp" />
+		<Project filename="../../Material/C Programming/Codes/7.3 Switch Statement/7.3 Switch Statement.cbp" />
+		<Project filename="../../Material/C Programming/Codes/7.4 Challange Determine Amount of Pay/7.4 Challange Determine Amount of Pay.cbp" />
+		<Project filename="../../Material/C Programming/Codes/7.6 for Loop/7.6 for Loop.cbp" />
+		<Project filename="../../Material/C Programming/Codes/7.7 while and do-while/7.7 while and do-while.cbp" />
+		<Project filename="../../Material/C Programming/Codes/7.9 Challange Guess the Number/7.9 Challange Guess the Number.cbp" />
+		<Project filename="../../Material/C Programming/Codes/7.9 Challange Guess the Number Lecturer Solution/7.9 Challange Guess the Number Lecturer Solution.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

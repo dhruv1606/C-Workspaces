@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="../../Material/C Programming/Codes/6.2 Basic Operators/6.2 Basic Operators.cbp" />
+		<Project filename="../../Material/C Programming/Codes/6.2 Basic Operators Logical/6.2 Basic Operators Logical.cbp" />
+		<Project filename="../../Material/C Programming/Codes/6.3 Bitwise Operators/6.3 Bitwise Operators.cbp" />
+		<Project filename="../../Material/C Programming/Codes/6.6 Challange Convert Minutes to Years and Days/6.6 Challange Convert Minutes to Years and Days.cbp" />
+		<Project filename="../../Material/C Programming/Codes/6.8 Challange Print the byte size of the basic data types/6.8 Challange Print the byte size of the basic data types.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

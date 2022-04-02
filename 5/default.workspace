@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="../../Material/C Programming/Codes/5.2 Basic Data Types/5.2 Basic Data Types.cbp" />
+		<Project filename="../../Material/C Programming/Codes/5.3 Enums and Chars/5.3 Enums and Chars.cbp" />
+		<Project filename="../../Material/C Programming/Codes/5.4 Format Specifiers/5.4 Format Specifiers.cbp" />
+		<Project filename="../../Material/C Programming/Codes/5.6 Challange Print the Area of a Rectangle/5.6 Challange Print the Area of a Rectangle.cbp" />
+		<Project filename="../../Material/C Programming/Codes/5.8 Challange Create and Use an Enum Type/5.8 Challange Create and Use an Enum Type.cbp" />
+		<Project filename="../../Material/C Programming/Codes/5.5 Command Line Arguments/5.5 Command Line Arguments.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
